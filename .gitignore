@@ -1,0 +1,5 @@
+/.idea/
+/node_modules/
+/messages.db
+/messages.db-shm
+/messages.db-wal
